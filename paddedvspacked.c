@@ -1,3 +1,4 @@
+//PADDED VS PACKED STRUCTURE
 #include<stdio.h>
 #include<stdint.h>
 
@@ -10,7 +11,7 @@ short data4;
 
 
 
-};//__attribute__((packed));
+};__attribute__((packed)); //by including "__attribute__((packed))" we can pack the structure
 
 int main(){
 
