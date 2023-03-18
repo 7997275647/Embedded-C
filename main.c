@@ -1,4 +1,4 @@
-
+//-----structures in C--------
 #include <stdio.h>
 #include <stdint.h>
 
